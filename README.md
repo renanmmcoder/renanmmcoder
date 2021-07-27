@@ -2,7 +2,7 @@
 
 - 👋 Hi, I’m Renan Mendes
 - 👀 I’m interested in developing awesome websites and apps!
-- ⚙️ All my projects are here on GitHub 
+- 🛠 All my projects are here on GitHub 
 - 🌱 I’m currently learning VueJS.
 - 📫 You can reach me on renmms42@gmail.com.
 
